@@ -14,10 +14,10 @@ export default function Page() {
       </SignedIn>
       <SignedOut>
         <Link href="/(auth)/sign-in">
-          <Text>Sign in</Text>
+          <Text>Entrar</Text>
         </Link>
         <Link href="/(auth)/sign-up">
-          <Text>Sign up</Text>
+          <Text>Inscrever-se</Text>
         </Link>
       </SignedOut>
     </View>
